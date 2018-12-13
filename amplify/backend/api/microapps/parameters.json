@@ -1,0 +1,13 @@
+{
+    "AppSyncApiName": "microapps",
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognito0701fde9",
+            "Outputs.UserPoolId"
+        ]
+    },
+    "schemaGraphql": "s3://microapps-20181212001122-deployment/amplify-appsync-files/schema.graphql.1544658204038",
+    "ResolverBucket": "microapps-20181212001122-deployment",
+    "ResolverRootKey": "amplify-appsync-files",
+    "DeploymentTimestamp": "1544658204038"
+}

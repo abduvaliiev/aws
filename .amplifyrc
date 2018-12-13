@@ -1,0 +1,14 @@
+{
+    "providers": {
+        "awscloudformation": {
+            "AuthRoleName": "microapps-20181212001122-authRole",
+            "UnauthRoleArn": "arn:aws:iam::548583762457:role/microapps-20181212001122-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::548583762457:role/microapps-20181212001122-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "microapps-20181212001122-deployment",
+            "UnauthRoleName": "microapps-20181212001122-unauthRole",
+            "StackName": "microapps-20181212001122",
+            "StackId": "arn:aws:cloudformation:eu-west-1:548583762457:stack/microapps-20181212001122/b18e2c10-fd91-11e8-98fc-50a68642b2c5"
+        }
+    }
+}
